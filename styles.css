@@ -1,14 +1,28 @@
+/* 
+
+    Colors:
+    #8CFF98 
+    #D72638 
+    #F4FAFF 
+    #8789C0 
+    32292F
+
+*/
+
+
 body {
     text-align: center;
+    background-color: #8789C0 ;
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: "Press Start 2P";
     font-size: 70px;
     margin: 0.2em;
 }
 
 h2 {
+    font-family: "Press Start 2P";
     margin: 1em 0 0.25em;
 }
 
@@ -37,4 +51,9 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+#sizePicker {
+    font-family: "Press Start 2P";
+    font-size: 14px;
 }
